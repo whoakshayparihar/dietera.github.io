@@ -1,4 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,500);
+/* @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,500); */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4&display=swap');
 /*
 Author: webthemez.com
 Author URL: http://webthemez.com
@@ -9,7 +10,7 @@ Author URL: http://webthemez.com
 body {
   padding-top: 100px;
   background: #FFFFFF;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Source Serif 4', sans-serif;
   font-weight: 400;
   color: #282828;
   line-height: 26px;
@@ -21,14 +22,8 @@ h4,
 h5,
 h6 {
   font-weight: 600;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Source Serif 4', sans-serif;
 }
-
-/* akshay start */
-.logodiet img{
-  height: 58px;
-}  
-
 a {
   color: #45aed6;
   -webkit-transition: color 400ms, background-color 400ms;
@@ -188,12 +183,12 @@ color: #FFFFFF;
   padding: 22px 15px 16px;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
-color: #FFFFFF;
+color: #4c4c4c;
  
 background: transparent;
 }
 .navbar-default .navbar-nav>li>a{
-color: #FFFFFF;
+color: #4c4c4c;
 }
  
 #main-nav.navbar-default {
@@ -209,14 +204,15 @@ background: #141414;
   
 }
   .navbar-default .navbar-nav>li>a {
-	color: #FFFFFF;
+	color: #4c4c4c;
+  font-weight: 700;
 	}
   #main-nav.navbar-default .navbar-nav > li.active > a,
 
   #main-nav.navbar-default .navbar-nav > li.open > a,
   #main-nav.navbar-default .navbar-nav > li:hover > a {
-	color: #fff;
-	background: #FB4425;
+	color: #62bd5e;
+	/* background: #FB4425; */
 }
   #main-nav.navbar-default .dropdown-menu {
     padding: 0 20px;
@@ -1014,4 +1010,6 @@ margin: 9px auto;
 padding: 7px 0 0;
 }
 }
-    
+.logodiet img{
+  height: 58px;
+}
