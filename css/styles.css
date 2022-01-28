@@ -23,6 +23,12 @@ h6 {
   font-weight: 600;
   font-family: 'Raleway', sans-serif;
 }
+
+/* akshay start */
+.logodiet img{
+  height: 58px;
+}  
+
 a {
   color: #45aed6;
   -webkit-transition: color 400ms, background-color 400ms;
@@ -1008,6 +1014,4 @@ margin: 9px auto;
 padding: 7px 0 0;
 }
 }
-.logodiet img{
-  height: 58px;
-}
+    
