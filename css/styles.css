@@ -167,7 +167,7 @@ background: #FFFFFF;
 }
 #main-nav.navbar-default .navbar-nav > li.active > a, #main-nav.navbar-default .navbar-nav > li.open > a, #main-nav.navbar-default .navbar-nav > li:hover > a {
 background: transparent;
-color: #FFFFFF;
+color: #62bd5e;
 }
 .navbar.navbar-default {
   border: 0;
@@ -192,11 +192,11 @@ color: #4c4c4c;
 }
  
 #main-nav.navbar-default {
-background: #141414;
+background: #FFFFFF;
 }
 @media only screen and (min-width: 768px) {
   #main-nav.navbar-default {
-    background: #ffffff;
+    background: #62bd5e;
   }
   #main-nav.navbar-default .navbar-nav > li > a {
     padding-top: 40px;
