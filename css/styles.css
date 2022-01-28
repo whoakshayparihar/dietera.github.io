@@ -86,7 +86,7 @@ display:none;
 #hero-banner p{
     font-size: 20px;
     font-weight: bolder;
-    color: #252525 !important;
+    color: #ffffff !important;
     line-height: 30px;
     margin-bottom: 28px;
 }
@@ -201,7 +201,7 @@ background: #141414;
 }
 @media only screen and (min-width: 768px) {
   #main-nav.navbar-default {
-    background: #252525;
+    background: #ffffff;
   }
   #main-nav.navbar-default .navbar-nav > li > a {
     padding-top: 40px;
@@ -332,7 +332,7 @@ background: #141414;
 }
 #services {
   padding: 140px 0 75px;
-  background: #252525;
+  background: #ffffff;
   border-top: 14px solid #FB4425;
 }
 .media.service-box {
@@ -526,7 +526,7 @@ transition: all .2s ease-in-out;
 margin-bottom: 15px;
 }
 #testimonial {
-  background: #252525;
+  background: #ffffff;
   background-size: cover;
   padding: 140px 0;
   color: #fff;
@@ -745,7 +745,7 @@ border-right: 22px solid transparent;
 padding:0px;
 margin: 15px 0;
 }
- .features .media.service-box .pull-left > i{color: #FB4425;/* border: 4px solid #fff; */background: #252525;font-size: 32px;border-radius: 50%;width: 80px;height: 80px;margin-left: 0;line-height: 52px;}
+ .features .media.service-box .pull-left > i{color: #FB4425;/* border: 4px solid #fff; */background: #ffffff;font-size: 32px;border-radius: 50%;width: 80px;height: 80px;margin-left: 0;line-height: 52px;}
 .features .media.service-box {
  margin: 0px 0 25px;
 }
@@ -812,7 +812,7 @@ margin: 15px 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: #252525;
+  background: #ffffff;
   -moz-transform: skewY(-3deg);
   -o-transform: skewY(-3deg);
   -ms-transform: skewY(-3deg);
@@ -947,7 +947,7 @@ width: 100px;
   padding-top: 30px;
   padding-bottom: 30px;
   color: #fff;
-  background: #252525;
+  background: #ffffff;
 }
 #footer a {
   color: #fff;
